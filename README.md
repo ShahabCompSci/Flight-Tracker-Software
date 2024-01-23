@@ -35,8 +35,7 @@ Upon opening the application, a GUI window will appear, titled "Flight Arrival T
 - `FlightData-W.csv`: This is the file where the user chooses which flight numbers details, are to be stored/written in the file.
 
 ## Acknowledgements:
-1. DR. PETER BLANCHFIELD - for providing a sample data of Flights.
-2. tKinter Python - Allowing me to create a GUI.
+1. tKinter Python - Allowing me to create a GUI.
 
 ## Planning Document:
 ## Simple Flow Chart:
